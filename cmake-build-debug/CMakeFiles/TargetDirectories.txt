@@ -1,0 +1,3 @@
+A:/data structures and algorithms/projects/project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+A:/data structures and algorithms/projects/project1/cmake-build-debug/CMakeFiles/project1.dir
+A:/data structures and algorithms/projects/project1/cmake-build-debug/CMakeFiles/edit_cache.dir

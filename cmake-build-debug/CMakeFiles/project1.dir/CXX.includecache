@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+A:/data structures and algorithms/projects/project1/Agency.cpp
+Agency.h
+A:/data structures and algorithms/projects/project1/Agency.h
+
+A:/data structures and algorithms/projects/project1/Agency.h
+iostream
+-
+string
+-
+stdlib.h
+-
+Service.h
+A:/data structures and algorithms/projects/project1/Service.h
+Order.h
+A:/data structures and algorithms/projects/project1/Order.h
+ctime
+-
+vector
+-
+
+A:/data structures and algorithms/projects/project1/MyStack.cpp
+MyStack.h
+A:/data structures and algorithms/projects/project1/MyStack.h
+
+A:/data structures and algorithms/projects/project1/MyStack.h
+Service.h
+A:/data structures and algorithms/projects/project1/Service.h
+
+A:/data structures and algorithms/projects/project1/Order.cpp
+Order.h
+A:/data structures and algorithms/projects/project1/Order.h
+
+A:/data structures and algorithms/projects/project1/Order.h
+string
+A:/data structures and algorithms/projects/project1/string
+
+A:/data structures and algorithms/projects/project1/Service.cpp
+Service.h
+A:/data structures and algorithms/projects/project1/Service.h
+
+A:/data structures and algorithms/projects/project1/Service.h
+iostream
+-
+string
+-
+stdlib.h
+-
+stack
+-
+
+A:/data structures and algorithms/projects/project1/TestCase.cpp
+iostream
+-
+ctime
+-
+chrono
+-
+Service.h
+A:/data structures and algorithms/projects/project1/Service.h
+Agency.h
+A:/data structures and algorithms/projects/project1/Agency.h
+
+A:/data structures and algorithms/projects/project1/main.cpp
+iostream
+-
+ctime
+-
+chrono
+-
+sstream
+-
+vector
+-
+Service.h
+A:/data structures and algorithms/projects/project1/Service.h
+Agency.h
+A:/data structures and algorithms/projects/project1/Agency.h
+
